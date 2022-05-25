@@ -1,3 +1,5 @@
+# Open Trust Claim
+
 The goal of this repo is to arrive at a minimal schema that can be used to express a "trust claim" or simple assertion about an entity, possibly including an object, and to demonstrate rollups and models using data in this form.
 
 The claim must be signed by the issuer, but may be derived from a secondary source, ie seen on a web page or heard from another party.
