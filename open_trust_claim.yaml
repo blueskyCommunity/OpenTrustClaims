@@ -8,7 +8,6 @@ target: structured obj, text or did
 content: 
       claim: fixed-vocab-string
       object: structured obj, text or did
-      qualifer: string, (optional)
       aspect: fixed-vocab-string (optional)
       
       how_known: thing or array of thing
