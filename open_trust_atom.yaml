@@ -1,0 +1,24 @@
+
+   
+# simplest possible conceptual framework
+# extending the Trustgraph trust atom format
+
+source : who says
+
+target: structured obj, text or did
+content: 
+      claim: fixed-vocab-string
+      object: structured obj, text or did
+      aspect: fixed-vocab-string (optional)
+      
+      how_known: thing or array of thing
+      secondary_source: thing or array of thing
+      effective_date: date
+      
+      confidence: float, 0..1 (optional)
+
+
+value: float, optional
+timestamp:
+
+signature:
